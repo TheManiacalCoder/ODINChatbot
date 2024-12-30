@@ -1,0 +1,4 @@
+{
+    "OPEN_ROUTER_API_KEY": "Instsert api key here",
+    "MODEL_NAME": "openai/gpt-4o-mini"
+}
